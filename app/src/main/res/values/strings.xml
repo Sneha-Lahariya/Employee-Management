@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Employee Management</string>
+    <string name="btn_text_add_employee">Add Employee</string>
+    <string name="btn_text_show_all_employees">Show All Employees</string>
+    <string name="btn_text_update_employees">Update Employees</string>
+    <string name="text_enter_employee_details">Add Employee Form</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="text_gender">Gender : </string>
+    <string name="rb_text_female">Female</string>
+    <string name="rb_text_male">Male</string>
+    <string name="et_hint_age">Age</string>
+    <string name="et_hint_email_id">Email ID</string>
+    <string name="btn_text_submit">Submit</string>
+</resources>
