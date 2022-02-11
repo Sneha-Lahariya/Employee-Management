@@ -20,5 +20,11 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, AddEmployeeActivity::class.java)
             startActivity(intent)
         }
+
+        binding.btnShowAllEmployees.setOnClickListener {
+            val intent = Intent(this, ShowAllEmployeesActivity::class.java)
+            startActivity(intent)
+        }
+
     }
 }

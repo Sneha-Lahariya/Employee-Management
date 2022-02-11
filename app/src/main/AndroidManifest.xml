@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EmployeeManagement">
         <activity
+            android:name=".ShowAllEmployeesActivity"
+            android:exported="false" />
+        <activity
             android:name=".AddEmployeeActivity"
             android:exported="false" />
         <activity
